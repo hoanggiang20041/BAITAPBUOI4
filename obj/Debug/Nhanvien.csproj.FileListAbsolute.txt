@@ -1,0 +1,11 @@
+C:\Users\giang\source\repos\Nhanvien\Nhanvien\obj\Debug\Nhanvien.csproj.AssemblyReference.cache
+C:\Users\giang\source\repos\Nhanvien\Nhanvien\obj\Debug\Nhanvien.Form1.resources
+C:\Users\giang\source\repos\Nhanvien\Nhanvien\obj\Debug\Nhanvien.Form2.resources
+C:\Users\giang\source\repos\Nhanvien\Nhanvien\obj\Debug\Nhanvien.Properties.Resources.resources
+C:\Users\giang\source\repos\Nhanvien\Nhanvien\obj\Debug\Nhanvien.csproj.GenerateResource.cache
+C:\Users\giang\source\repos\Nhanvien\Nhanvien\obj\Debug\Nhanvien.csproj.CoreCompileInputs.cache
+C:\Users\giang\source\repos\Nhanvien\Nhanvien\bin\Debug\Nhanvien.exe.config
+C:\Users\giang\source\repos\Nhanvien\Nhanvien\bin\Debug\Nhanvien.exe
+C:\Users\giang\source\repos\Nhanvien\Nhanvien\bin\Debug\Nhanvien.pdb
+C:\Users\giang\source\repos\Nhanvien\Nhanvien\obj\Debug\Nhanvien.exe
+C:\Users\giang\source\repos\Nhanvien\Nhanvien\obj\Debug\Nhanvien.pdb
